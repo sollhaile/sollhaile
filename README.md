@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sollhaile I'm student 
+- 👋 Hi, I’m @sollhaile
 - 👀 I’m interested in ... in programing 
-- 🌱 I’m currently learning ... university 
-- 💞️ I’m looking to collaborate on ...web development 
+- 💞️ I’m looking to collaborate on ...web development database design
 - 📫 How to reach me ...
 
 <!---
