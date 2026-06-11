@@ -34,7 +34,7 @@ REST APIs, Microservices, Shell Scripting
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sollhaile&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?sollhaile=sollhaile192&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?sollhaile=sollhaile&layout=compact&theme=tokyonight)
 
 ---
 
