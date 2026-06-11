@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 
 **Databases:**  
-Oracle 12c/19c, ASM, Data Guard, RMAN  
+Oracle 12c/19c, PostgresSQL, ASM, Data Guard, RMAN  
 
 **Backend:**  
 Java (Spring Boot), Python (Django, DRF), Node.js  
