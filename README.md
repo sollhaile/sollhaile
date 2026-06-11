@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Solomon Hailekiros
+# Hi there 👋, I'm Solomon Haile
 
 💻 Database Administrator | 🌱 Backend Developer | 🚀 DevOps Enthusiast  
 🎯 Focused on building scalable systems and automating infrastructure  
@@ -34,7 +34,7 @@ REST APIs, Microservices, Shell Scripting
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sollhaile&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?sollhaile=sollhaile&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sollhaile&layout=compact&theme=tokyonight)
 
 ---
 
