@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Solomon Haile
+# Hi there 👋, I'm Solomon Hailekiros
 
 💻 Database Administrator | 🌱 Backend Developer | 🚀 DevOps Enthusiast  
 🎯 Focused on building scalable systems and automating infrastructure  
