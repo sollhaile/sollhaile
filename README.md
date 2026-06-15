@@ -10,7 +10,7 @@
 - 🔭 I’m currently working as a Database Administrator in a banking environment  
 - 💡 Interested in DevOps, System Design, and Backend Engineering, Oracle Database, Spring Boot, Django, and Cloud Infrastructure  
 - ⚙️ I automate daily DBA tasks and reporting workflows  
-- 📫 Reach me: sollhaile192@example.com  
+- 📫 Reach me: sollhaile192@gmail.com  
 
 ---
 
